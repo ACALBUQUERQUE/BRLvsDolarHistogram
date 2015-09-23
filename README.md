@@ -3,6 +3,8 @@ BRL x USD Histogram with R
 
 This is an implementation of a data frame from Central Bank of Brazil that show the histogram of Exchange rate of BRL currency value in USD values per year since the brazilian currency was created.
 
+![image](https://acalbuquerque.files.wordpress.com/2015/09/screen-shot-2015-09-23-at-1-25-51-am.png?w=1832)
+
 ----------
 
 > **Note:**
